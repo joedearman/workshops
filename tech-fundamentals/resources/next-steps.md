@@ -19,11 +19,7 @@ Keep the momentum going with a few quick wins. Pick one or two to do this week.
 
 ## Get Ready for JavaScript Basics (Next Workshop)
 
-- Install or open a text editor you enjoy (Notepad, VS Code, or a browser-based
-  editor).
-- Find one website you like and guess what files it might have (`index.html`,
-  images, scripts).
-- Optional: make a free GitHub account if you don't have one yet.
+- Check the [setup instructions here](../setup) to make sure your computer is ready.
 
 ## Explore More (If Curious)
 
